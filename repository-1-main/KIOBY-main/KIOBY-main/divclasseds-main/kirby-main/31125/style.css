@@ -1,0 +1,128 @@
+
+body{
+    background-color: lightblue;
+
+    cursor: url(Kirby--cursor--SweezyCursors.cur),default;
+
+}
+
+
+.divThing{
+border-style: dashed;
+border-width:  medium;
+}
+a{
+    font-family: kirb;
+    color: #e476ff;
+    size:10px;
+}
+#ohno{
+    font-family: kirb;
+    size:50px;
+    text-align: center;
+    color:#e794d9
+}
+#header{
+    font-family: kirb;
+    size:50px;
+    text-align: center;
+    color:#e794d9
+}
+.welcome{
+    font-family: kirb;
+    size:20px;
+    color:#e794d9
+}
+a:hover span {
+    display: none;
+  }
+a:hover{
+    cursor: url(unavaiable\ stone\ kirby.cur),default;
+content: HL;
+color:darkred;
+}
+a:hover:before {
+    color: darkred;
+    font-size: 24px;
+    content: "Click it ";
+  }
+.lorek{
+    font-family: kirb;
+    color: #b500e2;
+    size:10px;
+}
+#society{
+    font-family: kirb;
+    color: #0051ff;
+}
+.sponsor{
+    font-family: kirb;
+    color:rgb(17, 0, 255);
+    font-size: medium;
+}
+.kirbs{
+    
+    border-style: solid;
+    border-width: 5px;
+    border-color: cornflowerblue;
+    display:inline-block;
+}
+#lore{
+    font-family: kirb;
+    color:darkmagenta;
+    text-align: center;
+    size:50px;
+}
+#musuem{
+    font-family: kirb;
+    size:100px;
+    color: #f700ff;
+    text-align: center;
+}
+
+.pink{
+background-color: pink;
+width:200px;
+align-content: center;
+display: inline-block;
+height:200px;
+margin: 5px;
+}
+
+.green{
+    background-color: palevioletred;
+    display: inline-block;
+width:200px;
+align-content: center;
+height:200px;
+margin: 5px;
+}
+.blue{
+    background-color: plum;
+    display: inline-block;
+    width:200px;
+    height:200px;
+align-content: center;
+    margin: 5px;
+}
+.sans{
+    background-color: blue;
+    display: inline-block;
+width:200px;
+align-content: center;
+height:200px;
+margin: 5px;
+margin-left: auto;
+margin-right: auto;
+}
+.kirbyimg{   
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+@font-face {
+    font-family: kirb;
+    src: url(kirby-classic.ttf);
+}
